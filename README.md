@@ -17,6 +17,9 @@ I threw this together in less than a month, so there is no real documentation.
 Best bet is to look at some of the tests and see how it works.
 To be honest there's of lot of cleaning up that needs doing, but at the time we were pushed to meet a deadline for the design of the nuSTORM project - which I did!
 
+### Things to note:
+- Tk is used to display results in matplotlib.
+
 
 ## TODO
 
